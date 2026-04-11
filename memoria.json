@@ -1,0 +1,13 @@
+{
+  "index_version": "1.0",
+  "updated": "2026-04-12",
+  "entries": [
+    {
+      "file": "2026-04-12.md",
+      "title": "Protocolo de Memoria para Asistente IA",
+      "keywords": ["contexto", "memoria", "índice", "protocolo", "legal-rag", "CRM"],
+      "summary": "Diseño de flujo para recuperar contexto entre sesiones vía índice JSON público + keywords",
+      "projects": ["legal-rag", "crm-contactos", "contexto-memoria"]
+    }
+  ]
+}
