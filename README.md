@@ -1,8 +1,8 @@
-# README 20Direct ERP PyME's
+# README 00Direct ERP PyME's
 
 **Objetivo**
 
-20Direct es un ERP para pymes, de libre acceso y desarrollo para sus miembros.
+00Direct es un ERP para pymes, de libre acceso y desarrollo para sus miembros.
 
 **Metodología**
 
@@ -16,9 +16,9 @@ Su desarrollo es modular; el ERP está compuesto de módulos, los módulos de pl
 
 Cada script realiza sólo una tarea.
 
-Ningún script puede tener más de 200 líneas de código, salvo casos excepcionales.
+Ningún script puede tener más de 150 líneas de código, salvo casos excepcionales.
 
-El idioma oficial de 20Direct ERP para PyME's es el Español.
+El idioma oficial de 0Direct ERP para PyME's es el Español.
 
 Debe haber una DB central, de sólo lectura para los módulos.
 
@@ -28,6 +28,6 @@ El Panel de Control no sólo administra la DB central, también los módulos y e
 
 Para la escritura, cada módulo tiene su propia db.
 
-La tecnología utilizada es; Postgres, Node, HTML, CSS, JS (en archivos separados), y Python.
+La tecnología utilizada es; Postgres, SQLite, Node, HTML, CSS, JS (en archivos separados), y Python.
 
 Debe haber una plantilla, para que el ERP tenga el mismo estilo.
